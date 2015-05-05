@@ -1,0 +1,2 @@
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache

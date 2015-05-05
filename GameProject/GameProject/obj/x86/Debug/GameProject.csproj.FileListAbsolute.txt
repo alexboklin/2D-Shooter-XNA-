@@ -1,0 +1,30 @@
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Lyelpoof\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\BurgerDamage.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\BurgerDeath.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\BurgerShot.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\ExplosionSound.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\TeddyBounce.xnb
+C:\Users\Bap Jiws\Documents\Visual Studio 2010\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\TeddyShot.xnb
